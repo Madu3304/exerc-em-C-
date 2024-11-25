@@ -1,6 +1,7 @@
 ﻿using System;
 using Atividade7;
 using System.Linq;
+using System.Collections.Generic;
 
 class Program
 {
@@ -36,3 +37,48 @@ class Program
 
 
 ; //aqui estou estudano oo delgate Func, com a utilizaçao do select do Using Linq.  
+
+//############################################
+
+//outra forma de fazer é usando o FUNC: 
+// assim estou colocando o func ali e depois só chamando ele no Select(). 
+//Func<Produto, string> func = NomeUpper;
+
+//        List<string> resultado = list.Select(func).ToList();
+//        foreach (string s in resultado)
+//        {
+//            Console.WriteLine(s);
+//        }
+
+
+
+//        static string NomeUpper(Produto p)
+//        {
+//            return p.Nome.ToUpper();
+//        }
+
+
+//############################################
+
+// agora vou fazer usando o Lambda 
+
+
+// nessa lambda não tem as'{}' pois esse lambda está retornndo valores. 
+//Func<Produto, string> func = p => p.Nome.ToUpper();
+
+//        List<string> resultado = list.Select(func).ToList();
+//        foreach (string s in resultado)
+//        {
+//            Console.WriteLine(s);
+//        }
+
+
+//############################################
+
+// agora vou fazer usando o "Lambda em Layne", que é colocar ela direto aqui no "List.Select()".
+
+//        List<string> resultado = list.Select(p => p.Nome.ToUpper()).ToList();
+//        foreach (string s in resultado)
+//        {
+//            Console.WriteLine(s);
+//        }
