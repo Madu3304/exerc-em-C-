@@ -1,0 +1,5 @@
+C:\Users\maria.souza\Documents\estudos\LojaVirtual\LojaVirtual\obj\Debug\net8.0\LojaVirtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.souza\Documents\estudos\LojaVirtual\LojaVirtual\obj\Debug\net8.0\LojaVirtual.AssemblyInfoInputs.cache
+C:\Users\maria.souza\Documents\estudos\LojaVirtual\LojaVirtual\obj\Debug\net8.0\LojaVirtual.AssemblyInfo.cs
+C:\Users\maria.souza\Documents\estudos\LojaVirtual\LojaVirtual\obj\Debug\net8.0\LojaVirtual.csproj.CoreCompileInputs.cache
+C:\Users\maria.souza\Documents\estudos\LojaVirtual\LojaVirtual\obj\Debug\net8.0\LojaVirtual.sourcelink.json
