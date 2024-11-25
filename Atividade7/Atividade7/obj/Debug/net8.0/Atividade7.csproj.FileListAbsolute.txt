@@ -1,0 +1,14 @@
+C:\Users\maria.souza\Documents\estudos\Atividade7\Atividade7\bin\Debug\net8.0\Atividade7.exe
+C:\Users\maria.souza\Documents\estudos\Atividade7\Atividade7\bin\Debug\net8.0\Atividade7.deps.json
+C:\Users\maria.souza\Documents\estudos\Atividade7\Atividade7\bin\Debug\net8.0\Atividade7.runtimeconfig.json
+C:\Users\maria.souza\Documents\estudos\Atividade7\Atividade7\bin\Debug\net8.0\Atividade7.dll
+C:\Users\maria.souza\Documents\estudos\Atividade7\Atividade7\bin\Debug\net8.0\Atividade7.pdb
+C:\Users\maria.souza\Documents\estudos\Atividade7\Atividade7\obj\Debug\net8.0\Atividade7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.souza\Documents\estudos\Atividade7\Atividade7\obj\Debug\net8.0\Atividade7.AssemblyInfoInputs.cache
+C:\Users\maria.souza\Documents\estudos\Atividade7\Atividade7\obj\Debug\net8.0\Atividade7.AssemblyInfo.cs
+C:\Users\maria.souza\Documents\estudos\Atividade7\Atividade7\obj\Debug\net8.0\Atividade7.csproj.CoreCompileInputs.cache
+C:\Users\maria.souza\Documents\estudos\Atividade7\Atividade7\obj\Debug\net8.0\Atividade7.dll
+C:\Users\maria.souza\Documents\estudos\Atividade7\Atividade7\obj\Debug\net8.0\refint\Atividade7.dll
+C:\Users\maria.souza\Documents\estudos\Atividade7\Atividade7\obj\Debug\net8.0\Atividade7.pdb
+C:\Users\maria.souza\Documents\estudos\Atividade7\Atividade7\obj\Debug\net8.0\Atividade7.genruntimeconfig.cache
+C:\Users\maria.souza\Documents\estudos\Atividade7\Atividade7\obj\Debug\net8.0\ref\Atividade7.dll
