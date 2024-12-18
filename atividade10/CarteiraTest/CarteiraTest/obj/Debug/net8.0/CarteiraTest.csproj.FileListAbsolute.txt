@@ -1,0 +1,14 @@
+C:\Users\maria.souza\Documents\estudos\Atividades\atividade10\CarteiraTest\CarteiraTest\obj\Debug\net8.0\CarteiraTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.souza\Documents\estudos\Atividades\atividade10\CarteiraTest\CarteiraTest\obj\Debug\net8.0\CarteiraTest.AssemblyInfoInputs.cache
+C:\Users\maria.souza\Documents\estudos\Atividades\atividade10\CarteiraTest\CarteiraTest\obj\Debug\net8.0\CarteiraTest.AssemblyInfo.cs
+C:\Users\maria.souza\Documents\estudos\Atividades\atividade10\CarteiraTest\CarteiraTest\obj\Debug\net8.0\CarteiraTest.csproj.CoreCompileInputs.cache
+C:\Users\maria.souza\Documents\estudos\Atividades\atividade10\CarteiraTest\CarteiraTest\bin\Debug\net8.0\CarteiraTest.exe
+C:\Users\maria.souza\Documents\estudos\Atividades\atividade10\CarteiraTest\CarteiraTest\bin\Debug\net8.0\CarteiraTest.deps.json
+C:\Users\maria.souza\Documents\estudos\Atividades\atividade10\CarteiraTest\CarteiraTest\bin\Debug\net8.0\CarteiraTest.runtimeconfig.json
+C:\Users\maria.souza\Documents\estudos\Atividades\atividade10\CarteiraTest\CarteiraTest\bin\Debug\net8.0\CarteiraTest.dll
+C:\Users\maria.souza\Documents\estudos\Atividades\atividade10\CarteiraTest\CarteiraTest\bin\Debug\net8.0\CarteiraTest.pdb
+C:\Users\maria.souza\Documents\estudos\Atividades\atividade10\CarteiraTest\CarteiraTest\obj\Debug\net8.0\CarteiraTest.dll
+C:\Users\maria.souza\Documents\estudos\Atividades\atividade10\CarteiraTest\CarteiraTest\obj\Debug\net8.0\refint\CarteiraTest.dll
+C:\Users\maria.souza\Documents\estudos\Atividades\atividade10\CarteiraTest\CarteiraTest\obj\Debug\net8.0\CarteiraTest.pdb
+C:\Users\maria.souza\Documents\estudos\Atividades\atividade10\CarteiraTest\CarteiraTest\obj\Debug\net8.0\CarteiraTest.genruntimeconfig.cache
+C:\Users\maria.souza\Documents\estudos\Atividades\atividade10\CarteiraTest\CarteiraTest\obj\Debug\net8.0\ref\CarteiraTest.dll
